@@ -27,3 +27,10 @@ This will create a menu inside of the Unchained Mod's tab for you to add buttons
 
 ### Outcome
 ![outcome image](https://wtfblaze.com/uploads/png/vrVbr.png)
+
+### Credits
+| Creator | Creation |
+| ------ | ------ |
+| DubyaDude | Base Button API |
+| WTFBlaze | Main Developer & Handler of Unchained Core |
+| Dayoftheplay | QMScroll |
