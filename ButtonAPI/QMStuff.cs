@@ -162,11 +162,12 @@ namespace VRCMGU.API
             }
         }
 
+        private static System.Random _rdm = new System.Random();
+
         public static int GenerateRandomNumber()
         {
             int _min = 1000;
             int _max = 9999;
-            System.Random _rdm = new System.Random();
             return _rdm.Next(_min, _max);
         }
 
